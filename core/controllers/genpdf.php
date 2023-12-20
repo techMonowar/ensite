@@ -3,7 +3,7 @@ defined('APP_NAME') or die(header('HTTP/1.1 403 Forbidden'));
 
 /*
  * @author Enbiit
- * @name Turbo Website Reviewer - PHP Script
+ * @name EnSite - Website Analyzer - PHP Script
  * @copyright 2023 Enbiit.com
  *
  */

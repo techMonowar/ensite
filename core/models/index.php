@@ -2,7 +2,7 @@
 
 /*
 * @author Enbiit
-* @name Turbo Website Reviewer - PHP Script
+* @name EnSite - Website Analyzer - PHP Script
 * @copyright � Enbiit.com
 *
 */

@@ -5,7 +5,7 @@ define('TEMP_DIR',APP_DIR.'temp'.D_S);
 
 /*
  * @author Enbiit
- * @name Turbo Website Reviewer - PHP Script
+ * @name EnSite - Website Analyzer - PHP Script
  * @copyright 2023 Enbiit.com
  *
  */

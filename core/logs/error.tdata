@@ -1,0 +1,79 @@
+[20-Dec-2023 15:40:53 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: array_count_values(): Argument #1 ($array) must be of type array, null given in /home/enbiitco/public_html/ensite/core/models/kd.php:739
+Stack trace:
+#0 /home/enbiitco/public_html/ensite/core/models/kd.php(739): array_count_values()
+#1 /home/enbiitco/public_html/ensite/core/models/kd.php(765): KD->calcDensity()
+#2 /home/enbiitco/public_html/ensite/core/controllers/domains.php(384): KD->result()
+#3 /home/enbiitco/public_html/ensite/core/app.php(154): require('/home/enbiitco/...')
+#4 /home/enbiitco/public_html/ensite/index.php(25): require('/home/enbiitco/...')
+#5 {main}
+  thrown in /home/enbiitco/public_html/ensite/core/models/kd.php on line 739
+[20-Dec-2023 19:21:04 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: array_count_values(): Argument #1 ($array) must be of type array, null given in /home/enbiitco/public_html/ensite/core/models/kd.php:739
+Stack trace:
+#0 /home/enbiitco/public_html/ensite/core/models/kd.php(739): array_count_values()
+#1 /home/enbiitco/public_html/ensite/core/models/kd.php(765): KD->calcDensity()
+#2 /home/enbiitco/public_html/ensite/core/controllers/domains.php(384): KD->result()
+#3 /home/enbiitco/public_html/ensite/core/app.php(154): require('/home/enbiitco/...')
+#4 /home/enbiitco/public_html/ensite/index.php(25): require('/home/enbiitco/...')
+#5 {main}
+  thrown in /home/enbiitco/public_html/ensite/core/models/kd.php on line 739
+[20-Dec-2023 19:21:26 Asia/Calcutta] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\ImageException: Unable to get the size of the image [resources/pdficons/per/.jpg] in /home/enbiitco/public_html/ensite/core/models/html2pdf/spipu/html2pdf/src/Html2Pdf.php:1527
+Stack trace:
+#0 /home/enbiitco/public_html/ensite/core/models/html2pdf/spipu/html2pdf/src/Html2Pdf.php(5789): Spipu\Html2Pdf\Html2Pdf->_drawImage()
+#1 /home/enbiitco/public_html/ensite/core/models/html2pdf/spipu/html2pdf/src/Html2Pdf.php(1445): Spipu\Html2Pdf\Html2Pdf->_tag_open_IMG()
+#2 /home/enbiitco/public_html/ensite/core/models/html2pdf/spipu/html2pdf/src/Html2Pdf.php(1413): Spipu\Html2Pdf\Html2Pdf->_executeAction()
+#3 /home/enbiitco/public_html/ensite/core/models/html2pdf/spipu/html2pdf/src/Html2Pdf.php(5609): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#4 /home/enbiitco/public_html/ensite/core/models/html2pdf/spipu/html2pdf/src/Html2Pdf.php(1445): Spipu\Html2Pdf\Html2Pdf->_tag_open_TD()
+#5 /home/enbiitco/public_html/ensite/core/models/html2pdf/spipu/html2pdf/src/Html2Pdf.php(1399): Spipu\Html2Pdf\Html2Pdf->_executeAction()
+#6 /home/enbiitco/public_html/ensite/core/models/html2pdf/spipu/html2pdf/src/Html2Pdf.php(3137): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#7 /home/enbiitco/public_html/ensite/core/models/html2pdf/spipu/html2pdf/src/Html2Pdf.php(1445): Spipu\Html2Pdf\Html2Pdf->_tag_open_DIV()
+#8 /home/enbiitco/public_html/ensite/core/models/html2pdf/spipu/html2pdf/src/Html2Pdf.php(1413): Spipu\Html2Pdf\Html2Pdf->_executeAction()
+#9 /home/enbiitco/public_html/ensite/core/models/html2pdf/spipu/html2pdf/src/Html2Pdf.php(600): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#10 /home/enbiitco/public_html/ensite/core/controllers/genpdf.php(557): Spipu\Html2Pdf\Html2Pdf->writeHTML()
+#11 /home/enbiitco/public_html/ensite/core/app.php(154): require('/home/enbiitco/...')
+#12 /home/enbiitco/public_html/ensite/index.php(25): require('/home/enbiitco/...')
+#13 {main}
+  thrown in /home/enbiitco/public_html/ensite/core/models/html2pdf/spipu/html2pdf/src/Html2Pdf.php on line 1527
+[20-Dec-2023 19:21:41 Asia/Calcutta] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\ImageException: Unable to get the size of the image [resources/pdficons/per/.jpg] in /home/enbiitco/public_html/ensite/core/models/html2pdf/spipu/html2pdf/src/Html2Pdf.php:1527
+Stack trace:
+#0 /home/enbiitco/public_html/ensite/core/models/html2pdf/spipu/html2pdf/src/Html2Pdf.php(5789): Spipu\Html2Pdf\Html2Pdf->_drawImage()
+#1 /home/enbiitco/public_html/ensite/core/models/html2pdf/spipu/html2pdf/src/Html2Pdf.php(1445): Spipu\Html2Pdf\Html2Pdf->_tag_open_IMG()
+#2 /home/enbiitco/public_html/ensite/core/models/html2pdf/spipu/html2pdf/src/Html2Pdf.php(1413): Spipu\Html2Pdf\Html2Pdf->_executeAction()
+#3 /home/enbiitco/public_html/ensite/core/models/html2pdf/spipu/html2pdf/src/Html2Pdf.php(5609): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#4 /home/enbiitco/public_html/ensite/core/models/html2pdf/spipu/html2pdf/src/Html2Pdf.php(1445): Spipu\Html2Pdf\Html2Pdf->_tag_open_TD()
+#5 /home/enbiitco/public_html/ensite/core/models/html2pdf/spipu/html2pdf/src/Html2Pdf.php(1399): Spipu\Html2Pdf\Html2Pdf->_executeAction()
+#6 /home/enbiitco/public_html/ensite/core/models/html2pdf/spipu/html2pdf/src/Html2Pdf.php(3137): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#7 /home/enbiitco/public_html/ensite/core/models/html2pdf/spipu/html2pdf/src/Html2Pdf.php(1445): Spipu\Html2Pdf\Html2Pdf->_tag_open_DIV()
+#8 /home/enbiitco/public_html/ensite/core/models/html2pdf/spipu/html2pdf/src/Html2Pdf.php(1413): Spipu\Html2Pdf\Html2Pdf->_executeAction()
+#9 /home/enbiitco/public_html/ensite/core/models/html2pdf/spipu/html2pdf/src/Html2Pdf.php(600): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#10 /home/enbiitco/public_html/ensite/core/controllers/genpdf.php(557): Spipu\Html2Pdf\Html2Pdf->writeHTML()
+#11 /home/enbiitco/public_html/ensite/core/app.php(154): require('/home/enbiitco/...')
+#12 /home/enbiitco/public_html/ensite/index.php(25): require('/home/enbiitco/...')
+#13 {main}
+  thrown in /home/enbiitco/public_html/ensite/core/models/html2pdf/spipu/html2pdf/src/Html2Pdf.php on line 1527
+[20-Dec-2023 19:22:30 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: array_count_values(): Argument #1 ($array) must be of type array, null given in /home/enbiitco/public_html/ensite/core/models/kd.php:739
+Stack trace:
+#0 /home/enbiitco/public_html/ensite/core/models/kd.php(739): array_count_values()
+#1 /home/enbiitco/public_html/ensite/core/models/kd.php(765): KD->calcDensity()
+#2 /home/enbiitco/public_html/ensite/core/controllers/domains.php(384): KD->result()
+#3 /home/enbiitco/public_html/ensite/core/app.php(154): require('/home/enbiitco/...')
+#4 /home/enbiitco/public_html/ensite/index.php(25): require('/home/enbiitco/...')
+#5 {main}
+  thrown in /home/enbiitco/public_html/ensite/core/models/kd.php on line 739
+[20-Dec-2023 21:37:18 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'enbiitco_monowar'@'localhost' (using password: YES) in /opt/lampp/htdocs/enbiit/ensite/core/functions.php:11
+Stack trace:
+#0 /opt/lampp/htdocs/enbiit/ensite/core/functions.php(11): mysqli_connect('localhost', 'enbiitco_monowa...', Object(SensitiveParameterValue), 'enbiitco_ensite')
+#1 /opt/lampp/htdocs/enbiit/ensite/index.php(22): dbConncet('localhost', 'enbiitco_monowa...', 'Enbiit..786', 'enbiitco_ensite')
+#2 {main}
+  thrown in /opt/lampp/htdocs/enbiit/ensite/core/functions.php on line 11
+[20-Dec-2023 21:38:00 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'enbiitco_monowar'@'localhost' (using password: YES) in /opt/lampp/htdocs/enbiit/ensite/core/functions.php:11
+Stack trace:
+#0 /opt/lampp/htdocs/enbiit/ensite/core/functions.php(11): mysqli_connect('localhost', 'enbiitco_monowa...', Object(SensitiveParameterValue), 'enbiitco_ensite')
+#1 /opt/lampp/htdocs/enbiit/ensite/index.php(22): dbConncet('localhost', 'enbiitco_monowa...', 'Enbiit..786', 'enbiitco_ensite')
+#2 {main}
+  thrown in /opt/lampp/htdocs/enbiit/ensite/core/functions.php on line 11
+[20-Dec-2023 21:38:04 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'enbiitco_monowar'@'localhost' (using password: YES) in /opt/lampp/htdocs/enbiit/ensite/core/functions.php:11
+Stack trace:
+#0 /opt/lampp/htdocs/enbiit/ensite/core/functions.php(11): mysqli_connect('localhost', 'enbiitco_monowa...', Object(SensitiveParameterValue), 'enbiitco_ensite')
+#1 /opt/lampp/htdocs/enbiit/ensite/index.php(22): dbConncet('localhost', 'enbiitco_monowa...', 'Enbiit..786', 'enbiitco_ensite')
+#2 {main}
+  thrown in /opt/lampp/htdocs/enbiit/ensite/core/functions.php on line 11

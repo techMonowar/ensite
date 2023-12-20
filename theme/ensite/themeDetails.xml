@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rainbowTheme compatibility="1.0" basename="tWeb" app="Turbo Website Reviewer" url="http://prothemes.biz/">
+    <themeDetails>
+        <name>Ensite Theme</name>
+        <themeBaseName>ensite-theme</themeBaseName>
+        <description>Customized theme for Ensite</description>
+        <version>1.0</version>
+        <author>Monowar</author>
+        <authorEmail>contact.enbiit@gmail.com@gmail.com</authorEmail>
+        <authorWebsite>https://enbiit.com/ensite</authorWebsite>
+        <copyright>Copyright &#169; 2024 Enbiit.com</copyright>
+        <preview>img/preview.png</preview>
+        <builder>builder/client/default/aqua-theme</builder>
+    </themeDetails>
+</rainbowTheme>

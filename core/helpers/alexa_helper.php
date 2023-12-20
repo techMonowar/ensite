@@ -1,18 +1,13 @@
 <?php
 
-/*
-* @author Balaji
-* @name AtoZ SEO Tools v3
-* @copyright 2022 ProThemes.Biz
-*
-*/
+
 
 function alexaRank2021($site){
 
     $apiData = curlGET('https://data.alexa.com/data?cli=10&dat=snbamz&url=' . $site);
 
     if(trim($apiData) === 'Okay')
-        $apiData = curlGET('https://api.prothemes.biz/tools/alexa.php?domain='.$site.'&code=' . $GLOBALS['item_purchase_code']);
+        $apiData = curlGET('https://api.Enbiit.com/tools/alexa.php?domain='.$site.'&code=' . $GLOBALS['item_purchase_code']);
 
     $xml = simplexml_load_string($apiData);
 
@@ -43,7 +38,7 @@ function alexaRank($site){
     $apiData = curlGET('https://data.alexa.com/data?cli=10&dat=snbamz&url=' . $site);
 
     if(trim($apiData) === 'Okay')
-        $apiData = curlGET('https://api.prothemes.biz/tools/alexa.php?domain='.$site.'&code=' . $GLOBALS['item_purchase_code']);
+        $apiData = curlGET('https://api.Enbiit.com/tools/alexa.php?domain='.$site.'&code=' . $GLOBALS['item_purchase_code']);
 
     $xml = simplexml_load_string($apiData);
 

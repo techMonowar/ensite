@@ -1,9 +1,9 @@
 <?php
 
 /*
- * @author Balaji
+ * @author Enbiit
  * @name: A to Z SEO Tools - PHP Script
- * @copyright 2022 ProThemes.Biz
+ 
  *
  */
 

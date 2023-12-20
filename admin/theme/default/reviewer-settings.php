@@ -2,9 +2,9 @@
 defined('APP_NAME') or die(header('HTTP/1.0 403 Forbidden'));
 
 /*
- * @author Balaji
+ * @author Enbiit
  * @name: Turbo Website Reviewer
- * @copyright © 2017 ProThemes.Biz
+ * @copyright ï¿½ 201Enbiit.comiz
  *
  */
 ?>
@@ -62,8 +62,8 @@ defined('APP_NAME') or die(header('HTTP/1.0 403 Forbidden'));
           <div class="form-group">
             <label for="snap">Website Snapshot Service:</label>
             <select id="opt" name="snap[options]" class="form-control">
-                <option <?php isSelected($db['snap']['options'], true, 1, 'prothemes_free'); ?> value="prothemes_free">ProThemes.Biz Free API</option>
-                <option <?php isSelected($db['snap']['options'], true, 1, 'prothemes_pro'); ?> value="prothemes_pro">ProThemes.Biz Premium API</option>
+                <option <?php isSelected($db['snap']['options'], true, 1, 'prothemes_free'); ?> value="prothemes_free">Enbiit.com Free API</option>
+                <option <?php isSelected($db['snap']['options'], true, 1, 'prothemes_pro'); ?> value="prothemes_pro">Enbiit.com Premium API</option>
                 <!-- Main content <option <?php isSelected($db['snap']['options'], true, 1, 'pagepeeker_free'); ?> value="pagepeeker_free">PagePeeker Free API</option>
                 <option <?php isSelected($db['snap']['options'], true, 1, 'pagepeeker_pro'); ?> value="pagepeeker_pro">PagePeeker Premium API</option>-->
                 <option <?php isSelected($db['snap']['options'], true, 1, 'custom'); ?> value="custom">Custom API URL</option>

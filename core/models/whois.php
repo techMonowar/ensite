@@ -1,9 +1,9 @@
 <?php
 
 /*
- * @author Balaji
+ * @author Enbiit
  * @name: A to Z SEO Tools v3
- * @copyright 2021 ProThemes.Biz
+ * @copyright 2021 Enbiit.com
  *
  */
 

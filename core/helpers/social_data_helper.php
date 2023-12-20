@@ -1,8 +1,8 @@
 <?php
 /*
-* @author Balaji
+* @author Enbiit
 * @name Turbo Website Reviewer - PHP Script
-* @copyright 2020 ProThemes.Biz
+* @copyright 2020 Enbiit.com
 *
 */
 

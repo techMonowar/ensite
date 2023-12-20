@@ -3,9 +3,9 @@
 defined('APP_NAME') or die(header('HTTP/1.0 403 Forbidden'));
 
 /*
- * @author Balaji
+ * @author Enbiit
  * @name: Turbo Website Reviewer
- * @copyright © 2017 ProThemes.Biz
+ * @copyright ï¿½ 201Enbiit.comiz
  *
  */
 
@@ -95,7 +95,7 @@ $pageViewDate = array_reverse($pageViewDate);
 $dateStr = makeJavascriptArray($pageViewDate).'[CountX]';
 
 //Update Check & News Panel
-$newsLink = 'http://api.prothemes.biz/tweb/latest-news.php';
+$newsLink = 'http://api.Enbiit.com/tweb/latest-news.php';
 $jsonData = simpleCurlGET($newsLink.'?link='.createLink('',true).'&code='.$item_purchase_code);
 $latestData = json_decode($jsonData,true);
 

@@ -3,9 +3,9 @@
 defined('BUILDER_CON') or die(header('HTTP/1.0 403 Forbidden'));
 
 /*
- * @author Balaji
+ * @author Enbiit
  * @name: Turbo Website Reviewer
- * @copyright © 2017 ProThemes.Biz
+ * @copyright © 2017 Enbiit.com
  *
  */
 

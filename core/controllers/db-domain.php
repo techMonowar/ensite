@@ -3,9 +3,9 @@
 defined('DB_DOMAIN') or die(header('HTTP/1.1 403 Forbidden'));
 
 /*
- * @author Balaji
+ * @author Enbiit
  * @name Turbo Website Reviewer - PHP Script
- * @copyright 2023 ProThemes.Biz
+ * @copyright 2023 Enbiit.com
  *
  */
 

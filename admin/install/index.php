@@ -1,7 +1,7 @@
 <?php
 /*
- * @author Balaji
+ * @author Enbiit
  * @name: Rainbow PHP Framework
- * @copyright 2020 ProThemes.Biz
+ * @copyright 2020 Enbiit.com
  *
  */

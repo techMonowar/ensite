@@ -2,9 +2,9 @@
 defined('APP_NAME') or die(header('HTTP/1.1 403 Forbidden'));
 
 /*
- * @author Balaji
+ * @author Enbiit
  * @name: Rainbow PHP Framework
- * @copyright 2022 ProThemes.Biz
+ 
  *
  */
 
@@ -347,7 +347,7 @@ if($pointOut === 'troubleshoot') {
                 $to = 'testmailaccbalaji@yopmail.com';
                 $sub = 'Test Mail';
 
-                $headers = "From: admin@prothemes.biz" . "\r\n" .
+                $headers = "From: admin@Enbiit.com" . "\r\n" .
                     "CC: rainbowbalajib@gmail.com";
 
                 $msg = "Test message from ".APP_NAME."\nMy URL: ".$baseURL;

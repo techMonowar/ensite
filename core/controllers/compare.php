@@ -4,9 +4,9 @@ defined('APP_NAME') or die(header('HTTP/1.0 403 Forbidden'));
 define('TEMP_DIR',APP_DIR.'temp'.D_S);
     
 /*
- * @author Balaji
+ * @author Enbiit
  * @name: Turbo Website Reviewer
- * @copyright 2020 ProThemes.Biz
+ * @copyright 2020 Enbiit.com
  *
  */
 

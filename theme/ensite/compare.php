@@ -2,9 +2,9 @@
 defined('APP_NAME') or die(header('HTTP/1.1 403 Forbidden'));
 
 /*
- * @author Balaji
+ * @author Enbiit
  * @Theme: Default Style
- * @copyright 2020 ProThemes.Biz
+ * @copyright 2020 Enbiit.com
  *
  */
 $solveMsg = array($lang['29'],$lang['30'],$lang['31'],$lang['32']);

@@ -2,9 +2,9 @@
 defined('APP_NAME') or die(header('HTTP/1.0 403 Forbidden'));
 
 /*
- * @author Balaji
+ * @author Enbiit
  * @name: Rainbow PHP Framework
- * @copyright © 2017 ProThemes.Biz
+ * @copyright © 2017 Enbiit.com
  *
  */
  

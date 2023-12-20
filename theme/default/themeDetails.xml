@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rainbowTheme compatibility="1.0" basename="tWeb" app="Turbo Website Reviewer" url="http://prothemes.biz/">
+<rainbowTheme compatibility="1.0" basename="tWeb" app="Turbo Website Reviewer" url="http://Enbiit.com/">
     <themeDetails>
         <name>Aqua Theme</name>
         <themeBaseName>aqua-theme</themeBaseName>
@@ -7,8 +7,8 @@
         <version>1.0</version>
         <author>Balaji</author>
         <authorEmail>rainbowbalajib@gmail.com</authorEmail>
-        <authorWebsite>http://prothemes.biz/</authorWebsite>
-        <copyright>Copyright &#169; 2017 ProThemes.Biz</copyright>
+        <authorWebsite>http://Enbiit.com/</authorWebsite>
+        <copyright>Copyright &#169; 2017 Enbiit.com</copyright>
         <preview>img/preview.png</preview>
         <builder>builder/client/default/aqua-theme</builder>
     </themeDetails>

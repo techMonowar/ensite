@@ -1,8 +1,8 @@
 <?php
 /*
- * @author Balaji
+ * @author Enbiit
  * @name: Rainbow PHP Framework
- * @copyright © 2015 ProThemes.Biz
+ * @copyright ï¿½ 201Enbiit.comiz
  *
  */
 

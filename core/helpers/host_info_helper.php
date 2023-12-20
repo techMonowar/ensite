@@ -1,11 +1,6 @@
 <?php
 
-/*
-* @author Balaji
-* @name Rainbow PHP Framework - PHP Script
-* @copyright 2022 ProThemes.Biz
-*
-*/
+
 
 function host_info($site) {
 

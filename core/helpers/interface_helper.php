@@ -1,9 +1,9 @@
 <?php
 
 /*
- * @author Balaji
+ * @author Enbiit
  * @name: Rainbow PHP Framework
- * @copyright 2023 ProThemes.Biz
+ * @copyright 2023 Enbiit.com
  *
  */
  

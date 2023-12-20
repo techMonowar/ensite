@@ -1,9 +1,9 @@
 <?php
 header('HTTP/1.1 404 Not Found', true, 404);
 /*
- * @author Balaji
+ * @author Enbiit
  * @name: Rainbow PHP Framework
- * @copyright 2021 ProThemes.Biz
+ * @copyright 2021 Enbiit.com
  *
  */
 ?>

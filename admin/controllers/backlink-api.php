@@ -2,9 +2,9 @@
 defined('APP_NAME') or die(header('HTTP/1.1 403 Forbidden'));
 
 /*
- * @author Balaji
+ * @author Enbiit
  * @name: Turbo Website Reviewer
- * @copyright 2022 ProThemes.Biz
+ 
  *
  */
  

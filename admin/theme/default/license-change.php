@@ -2,9 +2,9 @@
 defined('APP_NAME') or die(header('HTTP/1.0 403 Forbidden'));
 
 /*
- * @author Balaji
+ * @author Enbiit
  * @name: Turbo Website Reviewer
- * @copyright © 2017 ProThemes.Biz
+ * @copyright ï¿½ 201Enbiit.comiz
  *
  */
 ?>
@@ -49,7 +49,7 @@ defined('APP_NAME') or die(header('HTTP/1.0 403 Forbidden'));
             	<input value="<?php echo $licArr['path']; ?>" disabled="" type="text" name="domain" class="form-control" />
             </div>
             
-            <a target="_blank" href="http://api.prothemes.biz/tweb/reset.php?code=<?php echo $item_purchase_code; ?>" class="btn btn-danger">Reset Domain Name</a>            
+            <a target="_blank" href="http://api.Enbiit.com/tweb/reset.php?code=<?php echo $item_purchase_code; ?>" class="btn btn-danger">Reset Domain Name</a>            
             
             <br />
             

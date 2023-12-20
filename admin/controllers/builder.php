@@ -5,9 +5,9 @@ define('BUILDER_CON', ADMIN_CON_DIR.'builder'.D_S);
 define('BUILDER_THEME_DIR', ADMIN_THEME_DIR.'builder'.D_S);
 
 /*
- * @author Balaji
+ * @author Enbiit
  * @name: Rainbow PHP Framework
- * @copyright © 2017 ProThemes.Biz
+ * @copyright ï¿½ 201Enbiit.comiz
  *
  */
 

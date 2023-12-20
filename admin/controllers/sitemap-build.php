@@ -2,9 +2,9 @@
 defined('SITEMAP_') or die(header('HTTP/1.1 403 Forbidden'));
 
 /*
- * @author Balaji
+ * @author Enbiit
  * @name: Turbo Website Reviewer
- * @copyright 2021 ProThemes.Biz
+ * @copyright 2021 Enbiit.com
  *
  */
  

@@ -1,16 +1,16 @@
 <?php
 
 /*
-* @author Balaji
+* @author Enbiit
 * @name Turbo Website Reviewer - PHP Script
-* @copyright © 2017 ProThemes.Biz
+* @copyright © 2017 Enbiit.com
 *
 */
  
 function getMyGeoInfo($ip,$item_purchase_code, $json=false){
     
     $domain = createLink('',true);
-    $url = "http://api.prothemes.biz/tweb/ip.php?code=$item_purchase_code&ip=$ip&domain=$domain";
+    $url = "http://api.Enbiit.com/tweb/ip.php?code=$item_purchase_code&ip=$ip&domain=$domain";
     $outData = curlGET($url);
     
     $city= explode('<div id="city">',$outData);

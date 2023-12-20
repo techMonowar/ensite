@@ -2,7 +2,7 @@
 defined('APP_NAME') or die(header('HTTP/1.0 403 Forbidden'));
 /*
  * @author Enbiit
- * @name: Turbo Website Reviewer
+ * @name: EnSite - Website Analyzer
  * @Theme: Default Style
  * @copyright � 201Enbiit.comiz
  *

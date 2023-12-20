@@ -3,7 +3,7 @@ defined('ADMIN_LINKS') or die(header('HTTP/1.1 403 Forbidden'));
 
 /*
  * @author Enbiit
- * @name: Turbo Website Reviewer
+ * @name: EnSite - Website Analyzer
  
  *
  */

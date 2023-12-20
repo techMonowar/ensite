@@ -1,7 +1,7 @@
 <?php
 
 /*
-* @name: Turbo Website Reviewer
+* @name: EnSite - Website Analyzer
 *
 */
 

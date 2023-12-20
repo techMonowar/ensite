@@ -5,7 +5,7 @@ define('TEMP_DIR',APP_DIR.'temp'.D_S);
     
 /*
  * @author Enbiit
- * @name: Turbo Website Reviewer
+ * @name: EnSite - Website Analyzer
  * @copyright 2020 Enbiit.com
  *
  */

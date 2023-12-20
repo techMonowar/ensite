@@ -3,7 +3,7 @@ defined('DB_DOMAIN') or die(header('HTTP/1.1 403 Forbidden'));
 
 /*
  * @author Enbiit
- * @name: Turbo Website Reviewer
+ * @name: EnSite - Website Analyzer
  * @copyright 2023 Enbiit.com
  *
  */

@@ -3,7 +3,7 @@ defined('CAP_VERIFY') or die(header('HTTP/1.0 403 Forbidden'));
 
 /*
  * @author Enbiit
- * @name: Turbo Website Reviewer
+ * @name: EnSite - Website Analyzer
  * @copyright � 201Enbiit.comiz
  *
  */

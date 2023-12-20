@@ -2,7 +2,7 @@
 /*
  * @author Enbiit
  * @name: Rainbow PHP Framework
- * @copyright � 201Enbiit.comiz
+ * @copyright � Enbiit.com
  *
  */
 

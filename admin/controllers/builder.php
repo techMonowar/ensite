@@ -7,7 +7,7 @@ define('BUILDER_THEME_DIR', ADMIN_THEME_DIR.'builder'.D_S);
 /*
  * @author Enbiit
  * @name: Rainbow PHP Framework
- * @copyright � 201Enbiit.comiz
+ * @copyright � Enbiit.com
  *
  */
 

@@ -4,7 +4,7 @@ defined('APP_NAME') or die(header('HTTP/1.0 403 Forbidden'));
 /*
  * @author Enbiit
  * @Theme: Default Style
- * @copyright � 201Enbiit.comiz
+ * @copyright � Enbiit.com
  *
  */
 ?>

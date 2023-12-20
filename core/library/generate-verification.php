@@ -4,7 +4,7 @@ defined('CAP_GEN') or die(header('HTTP/1.0 403 Forbidden'));
 /*
  * @author Enbiit
  * @name: EnSite - Website Analyzer
- * @copyright � 201Enbiit.comiz
+ * @copyright � Enbiit.com
  *
  */
  

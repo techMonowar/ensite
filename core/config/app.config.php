@@ -11,8 +11,8 @@ defined('ROOT_DIR') or die(header('HTTP/1.1 403 Forbidden'));
 // --- Application Settings ---
 
 //Define Application Name
-define('APP_NAME','Turbo Website Reviewer');
-define('HTML_APP_NAME','<b>Turbo</b> Reviewer');
+define('APP_NAME','EnSite - Web Analyzer');
+define('HTML_APP_NAME','<b>EnSite</b> Web Analyzer');
 
 //Define Version Number of Application
 define('VER_NO','2.8');

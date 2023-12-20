@@ -25,6 +25,9 @@ $dbName = 'enbiitco_ensite';
 //Base URL (Without http:// & https://)
 $baseURL = 'enbiit.com/ensite/';
 
+//Developement
+// $baseURL = 'localhost/ensite/';
+
 //Item Purchase Code
 $item_purchase_code = 'xxjxhjsj-sjj-jsixohxdx-';
 

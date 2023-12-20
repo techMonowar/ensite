@@ -15,7 +15,7 @@ defined('APP_NAME') or die(header('HTTP/1.0 403 Forbidden'));
           Your Version <?php echo VER_NO; ?>
         </div>
         <!-- Copyright -->
-        <strong>Copyright &copy; <?php echo date("Y"); ?> <a target="_blank" href="http://prothemes.biz/">ProThemes.Biz</a></strong> All rights reserved.
+        <strong>Copyright &copy;<?php echo date("Y"); ?> <a target="_blank" href="http://enbiit.com/">Enbiit</a></strong> All rights reserved.
       </footer>
 
       <div class='control-sidebar-bg'></div>

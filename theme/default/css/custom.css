@@ -679,8 +679,10 @@ textarea.uneditable-input {
     transition: all 0.2s ease-in 0s;
 }
 .main-header {
-    padding: 30px 15px;
+    padding: 10px 50px;
     font-family: Open Sans,sans-serif;
+    background-color: #000;
+    width: 100%;
 }
 .main-header nav > ul {
     list-style-type: none;
@@ -692,7 +694,7 @@ textarea.uneditable-input {
 }
 .main-header nav > ul > li > a {
     font-weight: normal;
-    color: #fff;
+    color: rgb(248, 230, 230);
     display: block;
     padding: 10px;
     outline: none;
@@ -720,7 +722,7 @@ textarea.uneditable-input {
 }
 .main-header .main-nav {
     float: left;
-    margin: 0 0 0 30px;
+    margin: 0 0 0 10px;
 }
 .main-header .login-nav {
     float: right;

@@ -1,0 +1,7 @@
+
+
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/enbiitco/public_html/ensite
+    - /bin/cp -R images $DEPLOYPATH
